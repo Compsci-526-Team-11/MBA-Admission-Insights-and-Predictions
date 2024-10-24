@@ -1,5 +1,5 @@
 ## CompSci526 Fall24 Project 
-This project analyzes data from the Wharton Class of 2025 to uncover the key factors influencing admissions decisions.
+This project analyzes data from Wharton's Class of 2025 to identify the key factors that influence admission decisions.
 
 ##### Team 11: Shiling Zheng, Xiaozhu Yu, Xinyu Qian, Zairan Xiang, Zhehan Wang
 
